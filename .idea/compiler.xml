@@ -9,8 +9,5 @@
         <module name="JavaLib" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="JavaLib" target="1.6" />
-    </bytecodeTargetLevel>
   </component>
 </project>
